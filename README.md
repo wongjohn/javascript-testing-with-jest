@@ -23,7 +23,7 @@ npm start
 
 ### 执行所有文件结果
 
-![成功截图](/docs/javascript-testing-with-jest-demo.png)
+![执行所有文件结果](/docs/javascript-testing-with-jest-login.png)
 
 ### 在实际项目中，测试用例成功截图
 
