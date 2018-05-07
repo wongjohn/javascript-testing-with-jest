@@ -1,0 +1,22 @@
+{
+  "name": "javascript-testing-with-jest",
+  "version": "1.0.0",
+  "description": "JavaScript Testing with Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wongjohn/javascript-testing-with-jest.git"
+  },
+  "keywords": [
+    "Jest"
+  ],
+  "author": "WangJohn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wongjohn/javascript-testing-with-jest/issues"
+  },
+  "homepage": "https://github.com/wongjohn/javascript-testing-with-jest#readme"
+}
