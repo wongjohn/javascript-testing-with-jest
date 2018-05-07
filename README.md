@@ -17,11 +17,19 @@ npm start
 # jest
 ```
 
-### 测试用例成功截图
+### 执行`demo.test.js`文件结果
+
+![DEMO执行结果](/docs/javascript-testing-with-jest-demo.png)
+
+### 执行所有文件结果
+
+![成功截图](/docs/javascript-testing-with-jest-demo.png)
+
+### 在实际项目中，测试用例成功截图
 
 ![成功截图](/docs/success.jpg)
 
-### 测试用例失败截图
+### 在实际项目中，测试用例失败截图
 
 ![失败截图](/docs/failure.jpg)
 
